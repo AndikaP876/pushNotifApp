@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "511022405474",
+    "project_id": "push-notif-67ad3",
+    "storage_bucket": "push-notif-67ad3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511022405474:android:14cee0977267bad073be3b",
+        "android_client_info": {
+          "package_name": "com.pushnotifapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQp1U9SZOcmMmSZHj4tXe2h5BNrxnQOLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
